@@ -260,7 +260,7 @@ sources:
   branch: release/22.02.2
   repo: https://github.com/truenas/inadyn.git
 - name: kernel
-  repo: https://github.com/truenas/linux
+  repo: https://github.com/crashpb/linux/
   branch: release/22.02.2
   batch_priority: 0
   env:
