@@ -463,7 +463,7 @@ sources:
   deoptions: nocheck
   generate_version: false
 - name: grub2
-  repo: https://github.com/truenas/grub2
+  repo: https://github.com/crashpb/grub2
   branch: master
   predepscmd:
     - "apt install -y wget xz-utils"
